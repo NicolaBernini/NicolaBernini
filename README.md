@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+  - Building an Algorithmic Stablecoin in Solidity as we are currently focusing on Ethereum but more chains will come soon 
+  - Integrating protocols like [Perpetual Protocol](https://github.com/perpetual-protocol), [Squeeth](https://github.com/opynfinance/squeeth-monorepo) and more 
+  - Arbitrage Bot (JS/TS)
+  
+
+- 🌱 I’m currently learning ...
+  - DeFi
+    - about the expanding DeFi ecosystem, currently focusing mostly on Ethereum and Solana 
+  - Quant
+    - StatArb
+      - [Deep Learning Statistical Arbitrage](https://arxiv.org/abs/2106.04028)
+
 <!--
 **NicolaBernini/NicolaBernini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
