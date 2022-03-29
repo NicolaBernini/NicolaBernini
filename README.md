@@ -12,6 +12,14 @@
   - Quant
     - StatArb
       - [Deep Learning Statistical Arbitrage](https://arxiv.org/abs/2106.04028)
+  - Sometimes I publish some Twitter Threads on some topics I am learning, here are a few example 
+    - [🧵 CFMM - Nerdy math thread](https://twitter.com/NicolaBernini/status/1507297074580238336)
+    - [🧵 DEX](https://twitter.com/NicolaBernini/status/1506369727534411780)
+    - [🧵 Options Pricing](https://twitter.com/NicolaBernini/status/1506352646394945546)
+    - [🧵Random #DeFi pill of the day](https://twitter.com/NicolaBernini/status/1504848084098035712)
+    - [🧵 Information Geometry - Nerdy math thread](https://twitter.com/NicolaBernini/status/1508119847074467842)
+
+
 
 <!--
 **NicolaBernini/NicolaBernini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
