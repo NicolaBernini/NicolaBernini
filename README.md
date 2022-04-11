@@ -12,6 +12,7 @@
   - Quant
     - StatArb
       - [Deep Learning Statistical Arbitrage](https://arxiv.org/abs/2106.04028)
+
   - Sometimes I publish some Twitter Threads on some topics I am learning, here are a few example 
     - [🧵 How does the `depositReceipt` mechanism in Ribbon Finance work](https://twitter.com/NicolaBernini/status/1513088812687462400)
     - [🧵 How does the UniV3 Unique Pool ID System work](https://twitter.com/NicolaBernini/status/1512355774512705540)
