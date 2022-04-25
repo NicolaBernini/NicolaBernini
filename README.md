@@ -16,6 +16,7 @@
   - Sometimes I publish some Twitter Threads on some topics I am learning, here are a few example 
     - [🧵  Amazing announcement by @Scroll_ZKP : achieved EVM compatibility at bytecode-level. what does it mean](https://twitter.com/NicolaBernini/status/1517419265258934273)
     - [🧵 How does the `depositReceipt` mechanism in Ribbon Finance work](https://twitter.com/NicolaBernini/status/1513088812687462400)
+    - [🧵 EIP 4844 TLDR, introducing a new type of TX: a TX carrying a blob of data? Why this? Why a "blob"? What is it for?](https://twitter.com/NicolaBernini/status/1516778402807795712)
     - [🧵 How does the UniV3 Unique Pool ID System work](https://twitter.com/NicolaBernini/status/1512355774512705540)
     - [🧵 CFMM - Nerdy math thread](https://twitter.com/NicolaBernini/status/1507297074580238336)
     - [🧵 DEX](https://twitter.com/NicolaBernini/status/1506369727534411780)
