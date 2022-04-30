@@ -42,8 +42,9 @@ Some ML stuff
     - [ICML 2021 - Negative Data Augmentation](https://github.com/NicolaBernini/PaperAnalysis_ICLR2021_NegativeDataAugmentation)
 
 - 📫 How to reach me: 
-  - DM me on [<img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="drawing" width="20"/>](https://twitter.com/NicolaBernini) or 
-  - on [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="drawing" width="20"/>](https://www.linkedin.com/in/nicolabernini/)
+  - DM me on 
+    - [<img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="drawing" width="20"/>](https://twitter.com/NicolaBernini) or 
+    - [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="drawing" width="20"/>](https://www.linkedin.com/in/nicolabernini/)
 
 <!--
 **NicolaBernini/NicolaBernini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
