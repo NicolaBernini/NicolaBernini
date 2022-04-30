@@ -24,7 +24,7 @@
   - In the previous 8Y I have worked on Software Engineering stuff 
   - Programming Languages I have worked with: C++, Python, Solidity, JS/TS, Scala, ... 
   - Frameworks I have used 
-    - ML: Pytorch, Tensorflow 
+    - ML: [Pytorch](https://pytorch.org/), [Tensorflow](https://www.tensorflow.org/) 
     - DeFi: [Foundry](https://github.com/foundry-rs/foundry), [Hardhat](https://github.com/NomicFoundation/hardhat)
   
 
