@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - Building an Algorithmic Stablecoin in Solidity as we are currently focusing on Ethereum but more chains will come soon 
-  - Integrating protocols like [Perpetual Protocol](https://github.com/perpetual-protocol), [Squeeth](https://github.com/opynfinance/squeeth-monorepo) and more 
-  - Arbitrage Bot (JS/TS)
+  - In the DeFi space I prefer to work with anon identities but I am open to disclose some of them in the right discussion, here are some projects I am working on atm 
+    - Solidity 
+      - Based in Perpetuals 
+        - Building an Algorithmic Stablecoin (anon) 
+        - Building a new DEX (anon)
+        - Building Synths (anon)
+  - Researching on Integrating protocols like [Perpetual Protocol](https://github.com/perpetual-protocol), [Squeeth](https://github.com/opynfinance/squeeth-monorepo) and more 
+  - Arbitrage Bots 
   
 
 - 🌱 I’m currently learning ...
