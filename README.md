@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning ...
   - DeFi
     - about the expanding DeFi ecosystem, currently focusing mostly on Ethereum and Solana 
+  - Languages 
+    - Learning [Starkware - Cairo](https://www.cairo-lang.org/)
   - Quant
     - StatArb
       - [Deep Learning Statistical Arbitrage](https://arxiv.org/abs/2106.04028)
