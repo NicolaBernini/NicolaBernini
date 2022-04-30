@@ -9,6 +9,10 @@
         - Building Synths (anon)
   - Researching on Integrating protocols like [Perpetual Protocol](https://github.com/perpetual-protocol), [Squeeth](https://github.com/opynfinance/squeeth-monorepo) and more 
   - Arbitrage Bots 
+  - Some recent peer reiview papers of mine 
+    - Reinforcement Learning 
+      - [(HSCC 2021) A Few Lessons Learned in Reinforcement Learning for Quadcopter Attitude Control](https://hscc.acm.org/2021/accepted-papers/)
+        - With the [Uber Elevate](https://www.uber.com/it/it/elevate/) Team 
   
 
 - 🌱 I’m currently learning ...
