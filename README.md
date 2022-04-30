@@ -21,6 +21,11 @@
   - Spent 1.5Y at the [Uber Elevate](https://www.uber.com/it/it/elevate/) research facility in Paris researching topics at the intersection of safety and machine learning
   - Spent 4Y at [Ambarella](https://www.ambarella.com/) researching and implementing computer vision algorithm on Ambarella's chips 
   - Spent 4Y at [VisLab](https://vislab.it/) developing technology for autonomous cars since 2012 and helping developing the company from the beginning 
+  - In the previous 8Y I have worked on Software Engineering stuff 
+  - Programming Languages I have worked with: C++, Python, Solidity, JS/TS, Scala, ... 
+  - Frameworks I have used 
+    - ML: Pytorch, Tensorflow 
+    - DeFi: [Foundry](https://github.com/foundry-rs/foundry), [Hardhat](https://github.com/NomicFoundation/hardhat)
   
 
 - 📚 Studied 
