@@ -54,6 +54,7 @@
       - [Deep Learning Statistical Arbitrage](https://arxiv.org/abs/2106.04028)
 
   - Sometimes I publish some Twitter Threads on some topics I am learning, here are a few example 
+    - [🧵 DeFi Data Analysis - Weekly](https://nicolabernini.gitbook.io/defi-data-analysis/)
     - [🧵  Amazing announcement by @Scroll_ZKP : achieved EVM compatibility at bytecode-level. what does it mean](https://twitter.com/NicolaBernini/status/1517419265258934273)
     - [🧵 EIP 4844 TLDR, introducing a new type of TX: a TX carrying a blob of data? Why this? Why a "blob"? What is it for?](https://twitter.com/NicolaBernini/status/1516778402807795712)
     - [🧵 How does the `depositReceipt` mechanism in Ribbon Finance work](https://twitter.com/NicolaBernini/status/1513088812687462400)
