@@ -14,6 +14,8 @@
 
 - 🔎 I am spending a relevant amount of time researching and publishing in areas like DeFi and the intersection between ML and Quant Trading, here are some examples 
   - Curated publications (updated almost weekly)
+    - [🧵Why Arbitrum Fees surpassed Ethereum ones at the end of June?](https://twitter.com/NicolaBernini/status/1548609481675882498)
+      - Also on [LinkedIn](https://www.linkedin.com/posts/nicolabernini_arbitrum-pauses-odyssey-as-layer-2-fees-surpass-activity-6954374547982675968-Qfj_?utm_source=linkedin_share&utm_medium=member_desktop_web)
     - [🧵 DeFi Data Analysis - Weekly](https://nicolabernini.gitbook.io/defi-data-analysis/)
     - [🧵 Quant Trading and Machine Learning](https://nicolabernini.gitbook.io/quant-material/)
   - Some Twitter Threads of mine 
